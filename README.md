@@ -544,11 +544,6 @@ paste("Table 6: K-NN Results")
 head(knn_results)
 ```
 
-    [33m![39m [33mFold2: internal:
-      No observations were detected in `truth` for level(s): '8'
-      Computation will proceed by ignoring those levels.[39m
-    
-
 
 
 'Table 6: K-NN Results'
